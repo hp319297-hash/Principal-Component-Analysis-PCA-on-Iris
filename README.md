@@ -83,6 +83,4 @@ dimensionality reduction.
 
 ---
 
-## THEORY  
 
-PCA finds orthogonal directions of maximal variance (eigenvectors of covariance matrix).
