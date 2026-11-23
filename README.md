@@ -73,10 +73,10 @@ plt.show()
 Explained variance ratio: [0.9246 0.0531] 
 
 
-<img width="578" height="455" alt="download" src="https://github.com/user-attachments/assets/e479304a-4456-4e4a-bb96-e14bda513d2c" />
 
  
 ```
+<img width="578" height="455" alt="download" src="https://github.com/user-attachments/assets/e479304a-4456-4e4a-bb96-e14bda513d2c" />
 
 ---
 
