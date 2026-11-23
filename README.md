@@ -72,7 +72,8 @@ plt.show()
 ```text
 Explained variance ratio: [0.9246 0.0531] 
 
-<img width="578" height="455" alt="image" src="https://github.com/user-attachments/assets/56949cfb-6b16-4c93-ade0-7794d4478696" />
+<img width="578" height="455" alt="image" src="https://github.com/user-attachments/assets/be66c0a7-9ca1-4a0c-a43d-e76b1572d8f9" />
+
  
 ```
 
