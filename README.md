@@ -71,7 +71,9 @@ plt.show()
 
 ```text
 Explained variance ratio: [0.9246 0.0531] 
-(Scatter plot shows separation among species) 
+
+<img width="578" height="455" alt="image" src="https://github.com/user-attachments/assets/56949cfb-6b16-4c93-ade0-7794d4478696" />
+ 
 ```
 
 ---
